@@ -2,3 +2,4 @@ Hello Nextflow
 Day 2 of my journey
 Day 2: learned touch, echo, cat, head, curl, grep -c, wc. Counted 97 seqs in proteins.fasta.
 Day 3: wrote count_seqs.sh - my first shell script with an if-check. Counts seqs in any FASTA.
+Day 4: pushed project to GitHub, added README, learned edit-add-commit-push loop.
