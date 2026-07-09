@@ -1,2 +1,3 @@
 Day 8 (part 2): dictionaries - key:value pairs, built a results dict in a loop.
 Day 9 PRACTICE: mastered shell+Python on fresh dog dataset from memory. Parser, analysis, filters - all self-built.
+Day 10: learned Pandas - DataFrames, sort, filter, describe. Built dog_protein_stats.csv from parsed FASTA.
