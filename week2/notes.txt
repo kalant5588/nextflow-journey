@@ -3,3 +3,4 @@ Day 9 PRACTICE: mastered shell+Python on fresh dog dataset from memory. Parser, 
 Day 10: learned Pandas - DataFrames, sort, filter, describe. Built dog_protein_stats.csv from parsed FASTA.
 Day 11: learned Biopython - SeqIO.parse, Seq objects, reverse_complement, transcribe, translate. Rebuilt fasta_stats with SeqIO.
 Day 11B: more Biopython - SeqIO.read, to_dict, description, gc_fraction, ProteinAnalysis (MW, pI, aa composition).
+Day 12: built fasta_toolkit.py - a complete CLI tool. Biopython + ProteinAnalysis + Pandas + CSV, with try/except and argv. First portfolio piece!
